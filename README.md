@@ -1,28 +1,28 @@
-Name: ANSU M CHIRAYIL 
+**NAME**: ANSU M CHIRAYIL 
 
-Company: CODTECH IT SOLUTIONS
+**COMPANY**: CODTECH IT SOLUTIONS
 
-ID: CT08DA806
+**ID**: CT08DA806
 
-Domain: Data Analytics
+**Domain**: Data Analytics
 
-Duration: June to August 2024
+**Duration**: June to August 2024
 
-Mentor: SRAVANI GOUNI
+**Mentor**: SRAVANI GOUNI
 
-Overview of the Project
+### Overview of the Project
 
-# Project : FRAUD DETECTION IN FINANCIAL TRANSACTIONS ON CREDIT CARD DATASET FROM KAGGLE
+# PROJECT : FRAUD DETECTION IN FINANCIAL TRANSACTIONS ON CREDIT CARD DATASET FROM KAGGLE
 
-# OBJECTIVE
+### OBJECTIVE
 Develop a robust fraud detection system leveraging machine learning techniques to identify fraudulent transactions within financial datasets. The system should efficiently detect anomalies and potentially fraudulent activities to mitigate financial losses and enhance security. Also after deploying different models, compare the accuracies to select the best fit model for future predictions.
 
-# KEY ACTIVITIES
+### KEY ACTIVITIES
 1. EXPLORATORY DATA ANALYSIS
 2. HANDLING IMBALANCED DATA
 3. TRAINING AND COMPARING THE MODEL
 
-# LIBRARIES USED
+### LIBRARIES USED
 1. **NumPy**: A fundamental package for scientific computing with Python, offering support for arrays, mathematical functions, and more.
 2. **pandas**: Used for data manipulation and analysis, providing data structures like DataFrames.
 3. **matplotlib.pyplot**: A module within Matplotlib employed for creating static, animated, and interactive visualizations.
@@ -38,7 +38,7 @@ Develop a robust fraud detection system leveraging machine learning techniques t
 13. **imblearn.under_sampling.NearMiss**: A technique for undersampling the majority class by selecting samples that are closest to the minority class.
 14. **collections.Counter**: A container from the collections module that counts the occurrences of elements in a collection, such as a list or a tuple. 
 
-# Key Insights
+### KEY INSIGHTS
 - **Classification Algorithms Evaluated**:
   - Logistic Regression
   - k-Nearest Neighbors (k-NN)
@@ -57,13 +57,3 @@ Develop a robust fraud detection system leveraging machine learning techniques t
   - The Decision Tree model's effectiveness is attributed to its ability to capture underlying patterns in the data and its interpretability.
 - **Visual Comparison**:
   - A bar graph was used to visually compare the accuracy of each model, highlighting the superior performance of the Decision Tree classifier.
-
-# Future Work
-- **Advanced Techniques and Algorithms**:
-  - Explore ensemble methods like Random Forest and Gradient Boosting.
-  - Investigate the potential of neural networks for further performance improvement.
-- **Hyperparameter Tuning**:
-  - Fine-tuning the hyperparameters of each model could lead to better classification results.
-- **Scalability and Robustness**:
-  - Apply the models to more complex and larger datasets to evaluate their robustness.
-  - Continual assessment with different datasets and extensive cross-validation techniques to build a more generalized and reliable classification model.
