@@ -1,8 +1,13 @@
 Name: ANSU M CHIRAYIL 
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DA806
+
 Domain: Data Analytics
+
 Duration: June to August 2024
+
 Mentor: SRAVANI GOUNI
 
 Overview of the Project
